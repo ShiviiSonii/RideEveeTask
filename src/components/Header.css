@@ -1,0 +1,36 @@
+.header {
+    background-color: whitesmoke;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 2%;
+}
+
+.customer {
+    margin-left: 55%;
+    color: #000;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.vendor-button {
+    margin-left: 2%;
+    margin-right: 2%;
+    height:20%;
+    color: #FFF;
+    font-size: 16px;
+    padding: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+    border-radius: 9px;
+    background: #38B000;
+}

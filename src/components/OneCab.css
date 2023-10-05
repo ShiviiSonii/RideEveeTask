@@ -1,0 +1,29 @@
+.oneway {
+    color: #60A547;
+    font-family: Rounded Mplus 1c;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.lists {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    color: #000;
+    font-family: MTTMilano-Medium;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+li {
+    padding: 10px;
+}

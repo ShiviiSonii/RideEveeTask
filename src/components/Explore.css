@@ -1,0 +1,47 @@
+.explore {
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 80%;
+    position: absolute;
+    border-radius: 19px;
+    background: #FFF;
+    box-shadow: 0px 4px 29px 0px rgba(0, 0, 0, 0.28);
+}
+
+.main {
+    margin: 0;
+}
+
+.active {
+    background-color: #38B000;
+    color: white;
+}
+
+.explore-content{
+    display: flex;
+    justify-content: center;
+}
+
+
+.explore-content-div{
+    display: flex;
+    justify-content:space-around;
+}
+
+.explore-btn {
+    padding: 10px 30px;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    margin:2%;
+    border-radius: 5px;
+    box-shadow: 0px 4px 22px 0px rgba(0, 0, 0, 0.17);
+}
+
+.unactive {
+    background-color: white;
+    color: gray;
+}

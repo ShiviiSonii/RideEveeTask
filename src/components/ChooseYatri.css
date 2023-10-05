@@ -1,0 +1,28 @@
+.choose-yatri {
+    margin: 5%;
+    border-radius: 10px;
+    border: 1px solid #60A547;
+    background: #FFF;
+    display: flex;
+    padding: 2%;
+}
+
+.choose-yatri h3 {
+    text-align: right;
+    color: #60A547;
+    font-family: Rounded Mplus 1c;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.section-content {
+    display: flex;
+}
+
+.image {
+    border-radius: 10px;
+    background: url(https://rukminim2.flixcart.com/image/850/1000/ksdjma80/car-steering-cover/w/x/5/microfiber-auto-car-steering-wheel-cover-15-inch-black-hsr-original-imag5ybhn7qshzqn.jpeg?q=90), lightgray 50% / cover no-repeat;
+}

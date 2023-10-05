@@ -1,0 +1,24 @@
+.discover {
+    color: #60A547;
+    font-family: Rounded Mplus 1c;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.discover-section {
+    background: #2F313C;
+    padding: 4%;
+}
+
+.discover-list{
+    text-transform: none;
+    color: white;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

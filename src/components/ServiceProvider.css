@@ -1,0 +1,39 @@
+.service {
+    text-align: center;
+    color: #60A547;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.service-content {
+    display: flex;
+    justify-content: center;
+}
+
+.service-heading {
+    text-align: center;
+    color: #60A547;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.service-box {
+    padding: 2%;
+}
+
+.p-service {
+    color: #000;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}

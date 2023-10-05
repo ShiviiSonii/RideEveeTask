@@ -1,0 +1,30 @@
+.bg {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+    padding-right: 30%;
+    background: linear-gradient(90deg, #60A547 48.23%, rgba(0, 0, 0, 0.00) 100%), url(<path-to-image>), lightgray -2px -39.51px / 100% 118.814% no-repeat;
+}
+
+.bg h3 {
+    text-align: left;
+    color: #FFF;
+    font-family: Rounded Mplus 1c;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.bg p {
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+
+}
